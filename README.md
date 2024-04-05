@@ -3,7 +3,7 @@
 ![Screenshot from 2024-04-05 17-58-18](https://github.com/DeoreRohit4/Azure-DevOps-CICD-for-Voting-App/assets/102886808/ad38a830-6ef1-471e-b3b7-e1a5522e454e)
 
 ## Blog:- CI/CD Processes on Azure DevOps for a Voting Application
-Link: https://rohitexplainstech.hashnode.dev/cicd-processes-on-azure-devops-for-a-voting-application-ci-part
+Link (CI PART): https://rohitexplainstech.hashnode.dev/cicd-processes-on-azure-devops-for-a-voting-application-ci-part
 
 ## Voting Application Architecture
 
