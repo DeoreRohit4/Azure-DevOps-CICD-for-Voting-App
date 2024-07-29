@@ -4,6 +4,7 @@
 
 ## Blog:- CI/CD Processes on Azure DevOps for a Voting Application
 Link (CI PART): https://rohitexplainstech.hashnode.dev/cicd-processes-on-azure-devops-for-a-voting-application-ci-part
+
 Link (CD PART): https://rohitexplainstech.hashnode.dev/cicd-processes-on-azure-devops-for-a-voting-application-cd-part
 
 ## Voting Application Architecture
@@ -24,6 +25,6 @@ Link (CD PART): https://rohitexplainstech.hashnode.dev/cicd-processes-on-azure-d
 ![image](https://github.com/user-attachments/assets/971122fd-701f-484b-934e-47518dfec3ad)
 ![image](https://github.com/user-attachments/assets/3ea0baa0-ccd3-492f-b1ad-4a212bac039d)
 ![image](https://github.com/user-attachments/assets/9a20c4ba-9d7c-4977-96dd-fad290a69872)
-![image](https://github.com/user-attachments/assets/2d511f01-55b9-4e51-b665-f41570fc6e0d)
 ![image](https://github.com/user-attachments/assets/e0e51fde-89cb-4e88-af3e-8bb6b1b1dc43)
+![image](https://github.com/user-attachments/assets/2d511f01-55b9-4e51-b665-f41570fc6e0d)
 ![image](https://github.com/user-attachments/assets/b8bdacca-e18c-4889-b556-ba442f94b190)
